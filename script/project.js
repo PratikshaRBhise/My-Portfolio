@@ -7,7 +7,7 @@ const projectList = [
         techStack: ["HTML","CSS"],
         image: "movie.jpg",
         liveLink: "#",
-        githubLink: "#",
+        githubLink: "https://github.com/PratikshaRBhise/Movie-Flex",
 
     },
 
@@ -27,22 +27,22 @@ const projectList = [
         id: 3,
         number: "03",
         title: "My Portfolio",
-        description: "A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates with a clean and user-friendly interface.",
+        description: "This portfolio website is developed using HTML, CSS, and JavaScript, featuring a responsive design, smooth interactions, and dedicated sections for skills, projects, and contact details.",
         techStack: ["HTML","CSS", "javascript"],
         image: "Portfolio.png",
         liveLink: "#",
-        githubLink: "#",
+        githubLink: "https://github.com/PratikshaRBhise/My-Portfolio",
 
     },
      {
         id: 4,
         number: "04",
         title: "Weather App",
-        description: "A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates with a clean and user-friendly interface.",
-        techStack: ["HTML","CSS", "javascript"],
-        image: "",
+        description: "A weather application built using React.js that fetches real-time weather data from an external API and displays current temperature, humidity, and weather conditions in a responsive interface.",
+        techStack: ["React.js"],
+        image: "Weather App2.png",
         liveLink: "#",
-        githubLink: "#",
+        githubLink: " https://github.com/PratikshaRBhise/WeatherApp  ",
 
     }
 ];
