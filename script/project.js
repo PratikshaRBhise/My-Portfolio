@@ -3,9 +3,9 @@ const projectList = [
         id: 1,
         number: "01",
         title: "Movie Flex",
-        description: "Loream dsffsgfdfsgdsgfdfgdfgdf",
+        description: "Java Full Stack Developer skilled in Java, Spring Boot, React, and building responsive, user-friendly web applications.",
         techStack: ["HTML","CSS"],
-        image: "img4.png",
+        image: "movie.jpg",
         liveLink: "#",
         githubLink: "#",
 
@@ -14,10 +14,33 @@ const projectList = [
     {
         id: 2,
         number: "02",
-        title: "Porfolio",
-        description: "Loream dsffsgfdfsgdsgfdfgdfgdf",
-        techStack: ["HTML","CSS"],
-        image: "img4.png",
+        title: "Currency Converter",
+        description: "A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates with a clean and user-friendly interface.",
+        techStack: ["HTML","CSS", "javascript"],
+        image: "images.png",
+        liveLink: "#",
+        githubLink: "#",
+
+    },
+
+    {
+        id: 3,
+        number: "03",
+        title: "My Portfolio",
+        description: "A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates with a clean and user-friendly interface.",
+        techStack: ["HTML","CSS", "javascript"],
+        image: "Portfolio.png",
+        liveLink: "#",
+        githubLink: "#",
+
+    },
+     {
+        id: 4,
+        number: "04",
+        title: "Weather App",
+        description: "A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates with a clean and user-friendly interface.",
+        techStack: ["HTML","CSS", "javascript"],
+        image: "Portfolio.png",
         liveLink: "#",
         githubLink: "#",
 
