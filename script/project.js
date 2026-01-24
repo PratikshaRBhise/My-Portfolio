@@ -40,7 +40,7 @@ const projectList = [
         title: "Weather App",
         description: "A simple currency converter application that allows users to convert amounts between different currencies using real-time exchange rates with a clean and user-friendly interface.",
         techStack: ["HTML","CSS", "javascript"],
-        image: "Portfolio.png",
+        image: "",
         liveLink: "#",
         githubLink: "#",
 
